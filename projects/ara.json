@@ -3,5 +3,8 @@
     "subprojects": [
         "openstack/ara"
     ],
-    "core-team-gerrit-group": "ara-core"
+    "core-team-gerrit-group": "ara-core",
+    "core-team": [
+        "dmsimard"
+    ]
 }

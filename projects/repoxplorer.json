@@ -3,5 +3,8 @@
     "subprojects": [
         "repoxplorer"
     ],
-    "core-team-gerrit-group": "repoxplorer-core"
+    "core-team-gerrit-group": "repoxplorer-core",
+    "core-team": [
+        "morucci"
+    ]
 }

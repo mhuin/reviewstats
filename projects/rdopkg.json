@@ -3,5 +3,11 @@
     "subprojects": [
         "rdopkg"
     ],
-    "core-team-gerrit-group": "rdopkg-core"
+    "core-team-gerrit-group": "rdopkg-core",
+    "core-team": [
+        "yac",
+        "apevec",
+        "jpena",
+        "hguemar"
+    ]
 }

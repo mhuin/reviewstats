@@ -3,5 +3,12 @@
     "subprojects": [
         "DLRN"
     ],
-    "core-team-gerrit-group": "DLRN-core"
+    "core-team-gerrit-group": "DLRN-core",
+    "core-team": [
+        "javierpena",
+        "apevec",
+        "dms",
+        "hguemar",
+        "fredericlepied"
+    ]
 }
