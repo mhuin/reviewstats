@@ -1,0 +1,7 @@
+{
+    "name": "rdopkg",
+    "subprojects": [
+        "rdopkg"
+    ],
+    "core-team-gerrit-group": "rdopkg-core"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "DLRN",
+    "subprojects": [
+        "DLRN"
+    ],
+    "core-team-gerrit-group": "DLRN-core"
+}

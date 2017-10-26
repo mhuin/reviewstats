@@ -1,0 +1,7 @@
+{
+    "name": "ara",
+    "subprojects": [
+        "openstack/ara"
+    ],
+    "core-team-gerrit-group": "ara-core"
+}

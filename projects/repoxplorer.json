@@ -1,0 +1,7 @@
+{
+    "name": "repoxplorer",
+    "subprojects": [
+        "repoxplorer"
+    ],
+    "core-team-gerrit-group": "repoxplorer-core"
+}
